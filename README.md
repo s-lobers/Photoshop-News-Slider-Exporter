@@ -3,14 +3,13 @@
 Exportiert einen News-Slider mit maximal 6 Nachrichten, jede davon mit einem Teaser und der eigentlichen Nachricht.
 Das Script arbeitet sich durch ein Photoshop-Template, was folgendermaßen aufgebaut ist:
 
-Nachrichten-Ordner-1
-  Unterordner-1_Seite-1
-  Unterornder-2_Seite-2
+Nachrichten-Ordner-1  
+  > Unterordner-1_Seite-1 
+  > Unterornder-2_Seite-2
 
 
-Nachrichten-Ordner-2
-  Unterordner-1_Seite-1
-  Unterornder-2_Seite-2
+Nachrichten-Ordner-2  > Unterordner-1_Seite-1 
+                      > Unterornder-2_Seite-2
 
 und so weiter.
 
