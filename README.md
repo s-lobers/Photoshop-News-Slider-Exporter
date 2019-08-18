@@ -10,7 +10,7 @@ Nachrichten-Ordner-1
 
 Nachrichten-Ordner-2 
 * Unterordner-1_Seite-1 
-* Unterornder-2_Seite-2
+* Unterordner-2_Seite-2
 
 und so weiter.
 
@@ -26,7 +26,7 @@ Das Script hängt dann an diesem Dateinamen eine Erweiterung nach folgendem Sche
 und so weiter.
 
 Ein Ordner wird erstellt und nach dem Erscheinungstag benannt. Darin werden alle Slider als "für Web speichern" exportiert. In Zusammenarbeit mit Photoshop-Aktionen, sechs an der Zahl können erstellt werden,
-jede für eine Nachricht, welche dann die nicht genutzten Nachrichten/Ordner löscht, bevor das Script ausgeführt wird. Dadurch wird sichergestellt, dass auch nur die tatsächliche Anzahl an Nachrichten exportiert wird. Zum Beispiel erstellt der User eine Aktion namens "2 Nachrichten", die folgendes erledigt:
+jede für eine Nachricht, welche dann die nicht genutzten Nachrichten/Ordner löscht, bevor das Script ausgeführt wird. Dadurch wird sichergestellt, dass auch nur die tatsächliche Anzahl an Nachrichten exportiert wird. Zum Beispiel erstellt der User eine Photoshop-Aktion namens "2 Nachrichten", die folgendes erledigt:
 
 1.) Lösche Nachrichten-Ordner 3 bis 6 (nicht benutzte)
 2.) Starte das Script
@@ -61,7 +61,7 @@ The script then appends an extension to the filename as follows:
 
 and so on.
 
-A folder will be created and named according to the chosen release date. All news slides are exported "as save for web" inside this folder. In conjunction with Photoshop actions, six of which can be created, one for each news, that will delete all unused news/folders before running the script. This way only the right amount of news are exported. For example the user creates an action called "2 news" which will do the following:
+A folder will be created and named according to the chosen release date. All news slides are exported "as save for web" inside this folder. In conjunction with Photoshop actions, six of which can be created, one for each news, that will delete all unused news/folders before running the script. This way only the right amount of news are exported. For example the user creates a Photoshop-Action called "2 news" which will do the following:
 
 1.) Delete news-folders 3 to 6 (unused)
 2.) Run the script
