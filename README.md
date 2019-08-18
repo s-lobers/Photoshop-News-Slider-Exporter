@@ -5,7 +5,7 @@ Das Script arbeitet sich durch ein Photoshop-Template, was folgendermaßen aufge
 
 Nachrichten-Ordner-1  
 * Unterordner-1_Seite-1 
-* Unterornder-2_Seite-2
+* Unterordner-2_Seite-2
 
 
 Nachrichten-Ordner-2 
