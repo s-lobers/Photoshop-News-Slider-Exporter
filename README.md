@@ -8,8 +8,9 @@ Nachrichten-Ordner-1
 * Unterornder-2_Seite-2
 
 
-Nachrichten-Ordner-2  > Unterordner-1_Seite-1 
-                      > Unterornder-2_Seite-2
+Nachrichten-Ordner-2 
+* Unterordner-1_Seite-1 
+* Unterornder-2_Seite-2
 
 und so weiter.
 
@@ -39,13 +40,13 @@ Exports a news-slider for a total amount of 6 messages, each with a teaser and m
 The script iterates through a Photoshop-Template-Document which is set up as follows:
 
 News-Folder-1
-  Subfolder-1_Page-1
-  Subfolder-2_Page-2
+* Subfolder-1_Page-1
+* Subfolder-2_Page-2
 
 
 News-Folder-2
-  Subfolder-1_Page-1
-  Subfolder-2_Page-2
+* Subfolder-1_Page-1
+* Subfolder-2_Page-2
 
 and so on.
 
