@@ -17,11 +17,11 @@ und so weiter.
 Bei der Scriptausführung wird der User gebeten einen Erscheinungstag als Dateiname in der Form "Jahr_Monat_Tag" einzugeben.
 Das Script hängt dann an diesem Dateinamen eine Erweiterung nach folgendem Schema:
 
-"_n1_n1" für Nachricht 1, Seite 1 (Teaser)
-"_n1_n2" für Nachricht 1, Seite 2 (eigentliche Nachricht)
+* "_n1_n1" für Nachricht 1, Seite 1 (Teaser)
+* "_n1_n2" für Nachricht 1, Seite 2 (eigentliche Nachricht)
 
-"_n2_n1" für Nachricht 2, Seite 1 (Teaser)
-"_n2_n2" für Nachricht 2, Seite 2 (eigentliche Nachricht)
+* "_n2_n1" für Nachricht 2, Seite 1 (Teaser)
+* "_n2_n2" für Nachricht 2, Seite 2 (eigentliche Nachricht)
 
 und so weiter.
 
@@ -53,11 +53,11 @@ and so on.
 When running, the user is asked to type in a release date as a filename with the scheme "Year_Month_Day".
 The script then appends an extension to the filename as follows:
 
-"_n1_n1" for news slide 1 page 1 (teaser)
-"_n1_n2" for news slide 1 page 2 (main content)
+* "_n1_n1" for news slide 1 page 1 (teaser)
+* "_n1_n2" for news slide 1 page 2 (main content)
 
-"_n2_n1" for news slide 2 page 1 (teaser)
-"_n2_n2" for news slide 2 page 2 (main content)
+* "_n2_n1" for news slide 2 page 1 (teaser)
+* "_n2_n2" for news slide 2 page 2 (main content)
 
 and so on.
 
