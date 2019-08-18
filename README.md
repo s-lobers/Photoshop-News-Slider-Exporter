@@ -30,7 +30,7 @@ jede für eine Nachricht, welche dann die nicht genutzten Nachrichten/Ordner lö
 
 * 1.) Lösche Nachrichten-Ordner 3 bis 6 (nicht benutzte)
 * 2.) Starte das Script
-* 3.) Slide 1 und 2 werden exportiert
+* 3.) Slides für Nachrichten 1 und 2 werden exportiert
 * 4.) Löschung von Nachrichten-Ordner 3 bis 6 wird Rückgängig gemacht (um das Photoshop-Template mit allen Nachrichten zum Wiedergebrauch zu erhalten und Nachkorrekturen der letzten Version zu ermöglichen)
 * 5.) Speichern und Schließen des Photoshop-Templates
 
@@ -65,7 +65,7 @@ A folder will be created and named according to the chosen release date. All new
 
 * 1.) Delete news-folders 3 to 6 (unused)
 * 2.) Run the script
-* 3.) Slides 1 and 2 are exported
+* 3.) Slides for news 1 and 2 are exported
 * 4.) Deletion of news-folders 3 to 6 is undone (to keep the Photoshop-Template-Document with all news sliders for reusage and to make sure that further correction of the last version can be done)
 * 5.) Save and exit the Photoshop-Template
 
