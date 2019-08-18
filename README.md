@@ -61,7 +61,7 @@ The script then appends an extension to the filename as follows:
 
 and so on.
 
-A folder will be created and named according to the chosen release date. All news slides are exported "as save for web" inside this folder. In conjunction with Photoshop actions, six of which can be created, one for each news, that will delete all unused news/folders before running the script. This way only the right amount of news are exported. For example the user creates a Photoshop-Action called "2 news" which will do the following:
+A folder will be created and named according to the chosen release date. All news slides are exported "as save for web" inside this folder. In conjunction with Photoshop-Actions, six of which can be created, one for each news, that will delete all unused news/folders before running the script. This way only the right amount of news are exported. For example the user creates a Photoshop-Action called "2 news" which will do the following:
 
 * 1.) Delete news-folders 3 to 6 (unused)
 * 2.) Run the script
